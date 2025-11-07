@@ -339,21 +339,3 @@ class Blind(Effect):
             print(f"{character.name} is no longer Blinded")
 
         
-
-
-
-
-
-
-        
-
-
-
-
-
-   
-    
-
-#shop
-print("|            SHOP           |")
-print("|2.            |(placeholder)|")
